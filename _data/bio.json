@@ -3,7 +3,7 @@
     "name": "Kaulana Look",
     "label": "Student",
     "picture": "https://kaulana-look.github.io/images/Kaulana Headshot-square.jpg",
-    "email": "molly@hawaii.edu",
+    "email": "look43@hawaii.edu",
     "phone": "808-987-1111",
     "website": "https://kaulana-look.github.io/",
     "summary": "I am a student majoring in MIS. Currently living on the Big Island, but am going to school at University of Hawaii at Manoa.",
@@ -18,7 +18,7 @@
       {
         "network": "github",
         "username": "kaulana-look",
-        "url": "http://github.com/kaulana-look"
+        "url": "kaulana-look.github.io"
       },
       {
         "network": "linkedin",
@@ -51,7 +51,7 @@
       ]
     },
     {
-      "name": "fashion",
+      "name": "fashion.",
       "keywords": [
       ]
     }
