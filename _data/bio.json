@@ -1,28 +1,28 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
+    "name": "Kaulana Look",
     "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
+    "picture": "https://kaulana-look.github.io/images/Kaulana Headshot-square.jpg",
     "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "phone": "808-987-1111",
+    "website": "https://kaulana-look.github.io",
+    "summary": "I am a student majoring in MIS. Currently living on the Big Island, but am going to school at University of Hawaii at Manoa.",
     "location": {
-      "address": "",
+      "address": "9999 NFTs Lane",
       "postalCode": "96822",
-      "city": "Honolulu",
+      "city": "Waimea",
       "countryCode": "USA",
       "region": "Hawaii"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "kaulana-look",
+        "url": "http://github.com/kaulana-look"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
+        "username": "dont have a linkdin",
         "url": "http://linkedin.com/in/changeme"
       },
       {
@@ -39,19 +39,19 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Trading, buying and selling NFTs",
       "keywords": [
         "Arduino",
         "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "Surfing",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "fashion",
       "keywords": [
       ]
     }
