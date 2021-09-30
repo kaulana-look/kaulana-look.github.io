@@ -1,0 +1,19 @@
+1. In our most recent WOD, we created an invoice that would have been for some sort of company to track different information about products 
+(Price, quantity, tax/shipping rate etc.). Invoice 1 (https://github.com/kaulana-look/ITM352_F21_repo/tree/main/WODs/Invoice1) 
+                                           Invoice 2 (https://github.com/kaulana-look/ITM352_F21_repo/tree/main/WODs/Invoice2)
+
+2. During this WOD, I had a lot of trouble initial because for some reason my code would not recognize quantity1 as the variable I had set it to. It was also giving me
+issues when I tried to open the table and input the information into it. It seemed very strange to me, because I copied the variables and the code from the first item and applied
+it to items 2-5 and they gave me no issues at all. Eventually, I got frustrated and decided to start Invoice1 all over again. The second time around, the code actually worked
+even though I could not find any discrepancies between my first and second attempt, which was odd. I knew this needed to be done though, as I would not be able to move on to
+the second WOD had I not perfected the code in the first one initially. Some of the "if" and "else" functions gave me some trouble, but I was able to watch the screencast and
+find out what the issues were.
+
+3. I mostly just watched the screencasts beforehand so I can see what I have to do to follow the instructions properly. I honestly don't think I could do any of the WODs
+without watching the screencasts, because the WODs seem so vague to me. Maybe that is because my experience comes from ICS 101 where they show you how to do everything, but 
+I digress. Following the screencasts and learning visually helps me learn what I need to do and that is what works for me.
+
+4.One thing I could have done was tried to copy the code better. Not too sure why it did not work, but I was able to figure it out on my second try. I also think that going back
+and reviewing the material from class could make doing the WODs easier. This class is still challenging to me, but I am working through the difficulties and trying to learn.
+I really like how we get credit for trying, because I think that is what is important. As long as students are putting in their best effort and that is evident through their work,
+then I believe they have earned the credit. Especially for trying to learn something so challenging like coding.
